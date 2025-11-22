@@ -151,7 +151,7 @@ Ouvrir une Pull Request
 Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
 
 👥 Auteurs
-Votre Nom - Développement initial - VotreUsername
+Votre Nom - Développement initial - Exodus
 
 🙏 Remerciements
 Données collectées auprès des services de santé locaux
@@ -168,5 +168,5 @@ Pour toute question ou problème, veuillez ouvrir une issue sur GitHub.
 🏥 À Propos des Données
 Les données des pharmacies sont régulièrement mises à jour pour assurer leur exactitude. Si vous constatez une erreur ou une omission, merci de nous en informer.
 
-Dernière mise à jour : Décembre 2024
+Dernière mise à jour : Novembre 2025
 
